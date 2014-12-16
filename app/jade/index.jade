@@ -1,3 +1,23 @@
 extends layouts/base
 block content
-	h1 Welcome to your project!
+	.landing-bar.clearfix
+		header.clearfix
+			nav.pull-left#top
+				a(href="") Members
+				a(href="") Code of Conduct
+				a(href="") Hacks
+			nav.pull-right
+				a(href="") FAQ
+				a(href="") Support
+
+		section.clearfix
+			span#logo.pull-left HH
+			form.pull-right
+				input(type="text", placeholder="Username")
+				input(type="password", placeholder="Password")
+		footer
+			nav
+				a(href="") Home
+				a(href="") News
+				a(href="") Events 
+				a(href="") About Us 

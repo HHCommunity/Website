@@ -1,3 +1,51 @@
+// Guttering
+$gap:15px;
+// Font Constant
+$fc:15px;
+
 @function grayscale($value) {
   @return #{ "grayscale(" + $value + ")" };
+}
+
+
+body {
+	background:#eee;
+}
+
+
+.landing-bar {
+	width:100%;
+	position:relative;
+	top:150px;
+	background:white;
+	header, footer {
+		background:#333;
+		width:100%;
+		padding:$gap;
+	}
+	header {
+		nav#top {
+			a {
+				&:before {
+					content:"hh";
+					text-transform: uppercase;
+					color:white;
+					font-size:$fc*1.5;
+				}
+			}
+		}
+	}
+	nav {
+		a {
+			text-transform: uppercase;
+			color:white;
+			padding:$gap/2;
+		}
+	}
+	section {
+		padding:$gap;
+		#logo {
+			font-size:50px;
+		}
+	}
 }
