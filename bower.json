@@ -1,0 +1,19 @@
+{
+	"name": "Project",
+	"version": "0.0.1",
+	"authors": [
+		"Jonjoe Whitfield <me@jonjoe.io>"
+	],
+	"description": "Project Template",
+	"license": "MIT",
+	"homepage": "http://jonjoe.io",
+	"private": true,
+	"devDependencies": {
+		"bootstrap": ">=3.1.1",
+		"modernizr": ">=2.7.2",
+		"font-awesome": ">=4.0.3",
+		"animate.css": ">=3.2.0",
+		"owl-carousel2": "*",
+		"holderjs": ">=2.3.2"
+	}
+}

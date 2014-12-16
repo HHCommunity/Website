@@ -1,0 +1,3 @@
+@function grayscale($value) {
+  @return #{ "grayscale(" + $value + ")" };
+}
