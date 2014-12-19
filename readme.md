@@ -4,7 +4,7 @@ Built by [Jonjoe Whitfield](http://jonjoe.io)
 
 # Indee's Standard Workflow
 
-## Contents
+## Contents 
 - What Is It?
 - System Requirments
 - How Do I Use It?
