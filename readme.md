@@ -2,7 +2,7 @@
 [Indee](http://indee.io)
 Built by [Jonjoe Whitfield](http://jonjoe.io)
 
-# Indee's Standard Workflow
+# Indee's Standard Workflow Readme
 
 ## Contents 
 - What Is It?
