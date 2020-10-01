@@ -100,4 +100,4 @@ If you need to have an empty sass file please add
 ```
 \\
 ```
-inside the file. This will prevent the error. This error is a bug thats on the C layor of the gulp-sass plugin. Devs are aware of it but it has not been fixed yet.
+inside the file. This can be prevent the error. This error is a bug thats on the C layor of the gulp-sass plugin. Devlopers are aware of it but it has not been fixed yet.
