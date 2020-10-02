@@ -21,7 +21,7 @@ Standardised task runner for all front end work done by indee.
 All you need is a [modern browser](http://www.google.com/intl/en_uk/chrome/browser/) a terminal window and [NodeJS](http://nodejs.org/) installed..
 
 ## How Do I Use It?
-Once you have cloned the repositiory you will first need to delete the **.git** file. This file will interfere with your project if you decide to use git so remove it straight after download.
+Once you have cloned the repository you will first need to delete the **.git** file. This file will interfere with your project if you did  not remove git straight after download.
 
 ```
 $ cd /path/to/your/directory
